@@ -1,0 +1,15 @@
+D:\Hari\pbo\tryoutt\tryoutt\bin\Debug\net7.0\tryoutt.exe
+D:\Hari\pbo\tryoutt\tryoutt\bin\Debug\net7.0\tryoutt.deps.json
+D:\Hari\pbo\tryoutt\tryoutt\bin\Debug\net7.0\tryoutt.runtimeconfig.json
+D:\Hari\pbo\tryoutt\tryoutt\bin\Debug\net7.0\tryoutt.dll
+D:\Hari\pbo\tryoutt\tryoutt\bin\Debug\net7.0\tryoutt.pdb
+D:\Hari\pbo\tryoutt\tryoutt\obj\Debug\net7.0\tryoutt.csproj.AssemblyReference.cache
+D:\Hari\pbo\tryoutt\tryoutt\obj\Debug\net7.0\tryoutt.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hari\pbo\tryoutt\tryoutt\obj\Debug\net7.0\tryoutt.AssemblyInfoInputs.cache
+D:\Hari\pbo\tryoutt\tryoutt\obj\Debug\net7.0\tryoutt.AssemblyInfo.cs
+D:\Hari\pbo\tryoutt\tryoutt\obj\Debug\net7.0\tryoutt.csproj.CoreCompileInputs.cache
+D:\Hari\pbo\tryoutt\tryoutt\obj\Debug\net7.0\tryoutt.dll
+D:\Hari\pbo\tryoutt\tryoutt\obj\Debug\net7.0\refint\tryoutt.dll
+D:\Hari\pbo\tryoutt\tryoutt\obj\Debug\net7.0\tryoutt.pdb
+D:\Hari\pbo\tryoutt\tryoutt\obj\Debug\net7.0\tryoutt.genruntimeconfig.cache
+D:\Hari\pbo\tryoutt\tryoutt\obj\Debug\net7.0\ref\tryoutt.dll
